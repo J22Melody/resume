@@ -1,0 +1,109 @@
+{
+	"document_title": "蒋子凡的简历",
+	"language_tip": "本简历页面支持 {0} 和 {1} 两种语言。亦有 {2} 可供下载。",
+	"download_pdf": "PDF文件",
+	"view_source": "在GitHub上查看源码",
+
+	"name": "蒋子凡",
+	"tel": "(+86)182-5196-8590",
+	"email": "j22melody@gmail.com",
+	"address": "南京市 栖霞区 南大和园",
+
+	"content":[
+		{
+			"title": "工作经历",
+			"details":
+			[
+				{
+					"subtitle": "知乎",
+					"description": "前端实习生/前端工程师，2014-2017"
+				},
+				{
+					"subtitle": "MyDocumate",
+					"description": "前端负责人，2013-2014"
+				},
+				{
+					"subtitle": "淘宝聚划算",
+					"description": "前端实习生，2013.7"
+				},
+				{
+					"subtitle": "南京大学小百合工作室",
+					"description": "美工组组长，2012-2013"
+				}
+			]
+		},
+		{
+			"title": "项目经历",
+			"details":
+			[
+			  {
+					"subtitle": "富文本编辑器",
+					"time": "2016-2017",
+					"description": "涉及两个富文本编辑器，前者是知乎新版 Web 的一部分，用于知乎专栏、回答框、评论栏；后者是外包项目，一个经验分享的社区。分别使用了 Draft.js 和 Slate 两个基于 React 的框架，积累了一些经验，比如层次结构的处理、数据存储与兼容、插件机制、输入法 Bug 等。",
+					"link":
+					[
+						{
+							"text": "《Draft.js 在知乎的实践》",
+							"href": "https://zhuanlan.zhihu.com/p/24951621"
+						},
+						{
+							"text": "基于 Slate 的编辑器 demo",
+							"href": "http://editor.jzf.life"
+						}
+					]
+				},
+				{
+					"subtitle": "知乎 AppView 试验",
+					"time": "2017",
+					"description": "为了更一致的体验和代码复用，前端团队统一维护知乎 iOS 和 Android App 内的回答内容页。"
+				},
+				{
+					"subtitle": "zhihu-components",
+					"time": "2016",
+					"description": "知乎内部的 UI 组件库，是知乎新版 Web 的副产品，由产品设计师和前端工程师共同维护，产出包括一个 React 项目、与其对应的 Sketch 源文件、共同遵循的目录和命名规范。我负责 React 仓库的日常维护、Code Review、Changelog 编写及版本发布。"
+				},
+				{
+					"subtitle": "知乎新版 Web",
+					"time": "2016",
+					"description": "既是一次设计改版，又彻底重构了知乎前端技术栈，从 Tornado Template/UIModule + Google Closure + jQuery 改到 Universal React App (Koa2 + Redux + React)。我主要负责提问、回答相关的内容模块及 UI 组件的设计和维护。"
+				},
+				{
+					"subtitle": "豆芽",
+					"time": "2013",
+					"description": "独立开发的仿豆瓣旅行的小产品，服务端基于 Django。",
+					"link":
+					[
+						{
+							"text": "豆芽",
+							"href": "http://douya.jzf.life"
+						}
+					]
+				},
+				{
+					"subtitle": "仙林软件奇侠传",
+					"time": "2012",
+					"description": "独立开发的校园背景 Java RPG 游戏，工作内容涵盖剧情编写、素材收集、资料制作、地图绘制、代码编写。"
+				}
+			]
+		},
+		{
+			"title": "教育经历",
+			"text": "南京大学软件学院，2011-2015，GPA: 4.0/5.0，英语六级"
+		}
+	],
+	"highlights":
+	[
+		{
+			"title": "语言/库/框架",
+			"list": ["JavaScript", "CSS", "HTML", "HTTP", "Python", "React", "Redux", "Draft.js", "Slate"]
+		},
+		{
+			"title": "生产工具",
+			"list": ["Webpack", "Babel", "Git", "Atom", "iTerm", "Chrome", "Shadowsocks", "MacBook Pro"]
+		},
+		{
+			"title": "最近阅读",
+			"list": ["计算机程序构造和解释", "深入理解计算机系统", "You Don't Know JS", "全球通史", "维特根斯坦传"]
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"document_title": "Zifan Jiang's Résumé",
+	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
+	"download_pdf": "download as PDF",
+
+	"name": "Zifan Jiang",
+	"tel": "%28%2b%38%36%29%31%38%32%2d%35%31%39%36%2d%38%35%39%30",
+	"email": "%4a%32%32%4d%65%6c%6f%64%79%40%47%6d%61%69%6c%2e%63%6f%6d",
+	"address": "Nanjing University, #22 HanKou Road, 210093",
+
+	"content":
+	[
+		{
+			"title": "Internship",
+			"details":
+			[
+				{
+					"subtitle": "Not yet :("			
+				}
+			]
+		},
+		{
+			"title": "Independent Projects",
+			"details":
+			[
+				{
+					"subtitle": "Story of XianLin Software",
+					"time": "2012，freshman",
+					"description": "\"Story of XianLin Software\" tells a story of a student named Qin Shan who studies Software Engineering in Nanjing University.This is a exciting and real story.Enjoy it!~XD",
+					"link":
+					[
+						{
+							"text": "Download this game（not yet）",
+							"href": "#"
+						}
+					]
+				},
+				{
+					"subtitle": "NJU Singer",
+					"time": "2013，Sophomore",
+					"description": "Website for singing contest in Nanjing University",
+					"link":
+					{
+						"text": "Visit Website",
+						"href": "http://njusinger.info/"
+					}
+				}				
+			]
+		},
+		{
+			"title": "Other Projects",
+			"details":
+			[
+				{
+					"subtitle": "Not yet "
+				}
+			]
+		},
+		{
+			"title": "Education",
+			"text": "Bachelor of Software Engineering in Nanjing University,Sophomore,2011-2013，GPA: 4.0/5.0，CET 4"
+		}
+	],
+
+	"highlights":
+	[
+		{
+			"title": "Languages",
+			"list": ["PHP", "JavaScript", "Python", "C/C++", "Java"]
+		},
+		{
+			"title": "Frameworks & Platforms",
+			"list": ["Django",  "Yii Framework", "Wordpress", "Joomla!", "jQuery"]
+		},
+		{
+			"title": "Softwares & Tools",
+			"list": ["Git", "MySQL", "Postgresql", "Sublime Text 2",  "Photoshop","Eclipse","SVN"]
+		},
+		{
+			"title": "OS",
+			"list": ["IOS","Windows", "Android", "Ubuntu"]
+		},
+		{
+			"title": "School Life",
+			"list": ["UE Leader at Lily Studio"]
+		},
+		{
+			"title": "Features",
+			"list": ["Keep thinking",  "Pursue beautiful things", "Interested in web applications",  "Be fond of reading and traveling", "Believe in freedom","Love life"]
+		},
+		{
+			"title": "Links",
+			"list":
+			[
+				"<a href=\"http://www.jiangzifan.com/\" target=\"_blank\">www.jiangzifan.com/</a>"
+			]
+		}
+	]
+}
