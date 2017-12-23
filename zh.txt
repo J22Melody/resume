@@ -7,7 +7,7 @@
 	"name": "蒋子凡",
 	"tel": "(+86)182-5196-8590",
 	"email": "j22melody@gmail.com",
-	"address": "南京市 栖霞区 南大和园",
+	"address": "现居南京",
 
 	"content":[
 		{
@@ -19,7 +19,7 @@
 					"description": "前端实习生/前端工程师，2014-2017"
 				},
 				{
-					"subtitle": "MyDocumate",
+					"subtitle": "MyDocumate.com",
 					"description": "前端负责人，2013-2014"
 				},
 				{
@@ -39,7 +39,7 @@
 			  {
 					"subtitle": "富文本编辑器",
 					"time": "2016-2017",
-					"description": "涉及两个富文本编辑器，前者是知乎新版 Web 的一部分，用于知乎专栏、回答框、评论栏；后者是外包项目，一个经验分享的社区。分别使用了 Draft.js 和 Slate 两个基于 React 的框架，积累了一些经验，比如层次结构的处理、数据存储与兼容、插件机制、输入法 Bug 等。",
+					"description": "做过两个富文本编辑器，前者是知乎新版 Web 的一部分，现用于知乎专栏、回答框、评论栏；后者是外包项目，一个经验分享的社区。分别使用了 Draft.js 和 Slate 两个基于 React 的框架，积累了一些相关经验，包括层次结构的处理、数据存储与数据兼容、插件机制、输入法问题等。",
 					"link":
 					[
 						{
@@ -55,17 +55,17 @@
 				{
 					"subtitle": "知乎 AppView 试验",
 					"time": "2017",
-					"description": "为了更一致的体验和代码复用，前端团队统一维护知乎 iOS 和 Android App 内的回答内容页。"
+					"description": "为了更一致的体验和工程效率，知乎前端团队统一维护知乎 iOS 和 Android App 内的回答内容页。工作主要涉及 Web 端和 App 端的双向通信、代码的复用和抽象。"
 				},
 				{
 					"subtitle": "zhihu-components",
 					"time": "2016",
-					"description": "知乎内部的 UI 组件库，是知乎新版 Web 的副产品，由产品设计师和前端工程师共同维护，产出包括一个 React 项目、与其对应的 Sketch 源文件、共同遵循的目录和命名规范。我负责 React 仓库的日常维护、Code Review、Changelog 编写及版本发布。"
+					"description": "知乎内部的 UI 组件库，是新版 Web 的副产品，由设计师和工程师共同维护，产出包括 React 组件、对应的 Sketch 源文件、一致的命名规范。我负责组件仓库的日常维护、Code Review、Changelog 编写及版本发布。"
 				},
 				{
 					"subtitle": "知乎新版 Web",
 					"time": "2016",
-					"description": "既是一次设计改版，又彻底重构了知乎前端技术栈，从 Tornado Template/UIModule + Google Closure + jQuery 改到 Universal React App (Koa2 + Redux + React)。我主要负责提问、回答相关的内容模块及 UI 组件的设计和维护。"
+					"description": "是设计改版，也是技术重构，从 Tornado Template/UIModule + Google Closure + jQuery 迁移成 Universal React App (Koa2 + Redux + React)，涉及业务逻辑、组件化、项目拆分、API 优化、打点、服务端渲染等工作。我主要负责个人主页、提问、回答相关的内容模块及 UI 组件的设计、抽象与维护。"
 				},
 				{
 					"subtitle": "豆芽",
@@ -88,7 +88,7 @@
 		},
 		{
 			"title": "教育经历",
-			"text": "南京大学软件学院，2011-2015，GPA: 4.0/5.0，英语六级"
+			"text": "南京大学软件学院本科，2011-2015，英语六级"
 		}
 	],
 	"highlights":
@@ -99,7 +99,7 @@
 		},
 		{
 			"title": "生产工具",
-			"list": ["Webpack", "Babel", "Git", "Atom", "iTerm", "Chrome", "Shadowsocks", "MacBook Pro"]
+			"list": ["Webpack", "Babel", "Git", "iTerm", "Atom", "Chrome", "Shadowsocks", "MacBook Pro"]
 		},
 		{
 			"title": "最近阅读",
