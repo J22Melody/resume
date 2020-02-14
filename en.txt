@@ -3,106 +3,66 @@
 	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
 	"download_pdf": "download as PDF",
 
-	"name": "Zifan Jiang",
+	"name": "Zifan Jiang's Resume",
 	"tel": "(+86)182-5196-8590",
 	"email": "j22melody@gmail.com",
-	"address": "Xianlin, Nanjing",
+	"address": "Changning, Shanghai",
 
 	"content":[
+		{
+			"title": "Education",
+			"text": "Bachelor of Software Engineering in Nanjing University, 9/2011-7/2015, GPA 3.88/5.0"
+		},
 		{
 			"title": "Experience",
 			"details":
 			[
 				{
+					"subtitle": "Wiredcraft",
+					"time": "Front-end Engineer, 2/2018 - now",
+					"description": "Located in Shanghai and Berlin, Wiredcraft is a multicultural team of over 50 creatives, technologist and strategists. We help the largest brands (e.g., Starbucks, Nike, Walmart) in the world design, create and grow digital solutions that impact millions of people."
+				},
+				{
+					"subtitle": "Freelancer",
+					"time": "Part-time Front-end Engineer 3/2017-2/2018",
+					"description": "Providing outsourcing and consultancy services for startups, and spending rest of the time in libraries studying Computer Science, History and Philosophy."
+				},
+				{
 					"subtitle": "Zhihu",
-					"description": "Front-end Developer/Front-end Developer Intern, 2014-2017"
+					"time": "Front-end Engineer, 8/2015-2/2017 / Front-end Engineer Intern, 7/2014-3/2015",
+					"description": "Zhihu is a Chinese equation to Quora, and was a small but promising startup when I joined in 2014. It has grown into a mid-level company who has finished its $100M Series D financing. I experienced the commercialization process as well as the redesign and refactor of the website."
 				},
 				{
 					"subtitle": "MyDocumate.com",
-					"description": "Front-end Developer, 2013-2014"
+					"time": "Part-time Front-end Engineer, 11/2013-5/2014",
+					"description": "A startup founded by college students, aimed at helping Chinese students study abroad. I was involved in building the first version of the website."
 				},
 				{
-					"subtitle": "Taobao",
-					"description": "Front-end Developer Intern, 2013.7"
+					"subtitle": "Alibaba",
+					"time": "Front-end Engineer Intern, 7/2013-9/2013",
+					"description": "One of the largest tech companies in the world. I had my first internship in the Juhuasuan UED Department."
 				},
 				{
 					"subtitle": "Nanjing University Lily Studio",
-					"description": "Leader of Art Group, 2012-2013"
+					"time": "Leader of Art Group, 2012-2013",
+					"description": "Lily Studio is a non-profit organization made up of college students who are enthusiastic about the Internet. We are committed to spreading Web technologies and building useful websites for students."
 				}
 			]
-		},
-		{
-			"title": "Projects",
-			"details":
-			[
-			  {
-					"subtitle": "Rich Text Editors",
-					"time": "2016-2017",
-					"description": "I have been working on two rich text editors recently, one of which is a part of the new version of Zhihu Web, supporting features like Zhihu column editor, comment box and answer box. The other one is an outsourcing project, something like an experience sharing forum. The two are based on Draft.js and Slate respectively, and are both based on React. I solved issues about nested structure, data storage and compatibility, plugins, Chinese input method and so on.",
-					"link":
-					[
-						{
-							"text": "《Use Draft.js on Zhihu.com》",
-							"href": "https://zhuanlan.zhihu.com/p/24951621"
-						},
-						{
-							"text": "Editor demo based on Slate",
-							"href": "http://editor.jzf.life"
-						}
-					]
-				},
-				{
-					"subtitle": "Zhihu AppView Experiment",
-					"time": "2017",
-					"description": "For the goal of achieving more consistent user experience and higher developing efficiency. Front-end team at Zhihu began to maintain specific pages in Zhihu iOS and Android App, such as answer content page. My work focused on communication between web and native, abstraction and reuse, etc."
-				},
-				{
-					"subtitle": "zhihu-components",
-					"time": "2016",
-					"description": "It's a component kit for Zhihu products which is a byproduct of the new version of Zhihu Web. The repository is contributed by both engineers and designers, including React components, corresponding Sketch files and conventions. I was in charge of daily maintenance, code review, change log and publishing of new version."
-				},
-				{
-					"subtitle": "New Version of Zhihu Web",
-					"time": "2016",
-					"description": "This is a fairly large job because it's both redesign and refactor. We had migrated from Tornado Template/UIModule + Google Closure + jQuery to a universal React app (Koa2 + Redux + React). Among tasks including business logic, modularization, code splitting, API optimization, server rendering and event tracking, I was primarily responsible for question/answer/comment modules and component abstraction."
-				},
-				{
-					"subtitle": "Douya",
-					"time": "2013",
-					"description": "Individual project inspired by Douban.com, server side of which is driven by Apache and Django.",
-					"link":
-					[
-						{
-							"text": "Douya",
-							"href": "http://douya.jzf.life"
-						}
-					]
-				},
-				{
-					"subtitle": "Xianlin Software Paladin",
-					"time": "2012",
-					"description": "Individual RPG game written in Java. Work consisted of writing scrips, drawing maps, gathering materials and of course, coding."
-				}
-			]
-		},
-		{
-			"title": "Education",
-			"text": "Bachelor of Software Engineering in Nanjing University, 2011-2015, GPA 3.88/5.0, CET-6"
 		}
 	],
 	"highlights":
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript", "CSS", "HTML", "HTTP", "Python", "React", "Redux", "Draft.js", "Slate"]
+			"list": ["JavaScript/CSS/HTML", "Python/Node.js/Java/C++", "HTTP/TCP/IP", "Git"]
 		},
 		{
-			"title": "Tools",
-			"list": ["Webpack", "Babel", "Git", "iTerm", "Atom", "Chrome", "Shadowsocks", "MacBook Pro"]
+			"title": "Languages",
+			"list": ["Chinese", "English(TOEFL100/CET-6)"]
 		},
 		{
-			"title": "Recently Read",
-			"list": ["SICP", "CSAPP", "You Don't Know JS", "Fluent Python", "A Global History", "Ludwig Wittgenstein", "Stoner"]
+			"title": "Interests",
+			"list": ["Programming", "Reading", "Traveling"]
 		}
 	]
 }
