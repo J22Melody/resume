@@ -3,15 +3,27 @@
 	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
 	"download_pdf": "download as PDF",
 
-	"name": "Zifan Jiang's Resume",
-	"tel": "(+86)182-5196-8590",
+	"name": "Zifan Jiang",
+	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
-	"address": "Changning, Shanghai",
+	"address": "Uetlibergstrasse 111b/801, Zurich 8045",
 
 	"content":[
 		{
 			"title": "Education",
-			"text": "Bachelor of Software Engineering in Nanjing University, 9/2011-7/2015, GPA 3.88/5.0"
+			"details":
+			[
+				{
+					"subtitle": "University of Zurich",
+					"time": "9/2019-now",
+					"description": "Master of Informatics, major in People-Oriented Computing"
+				},
+				{
+					"subtitle": "Nanjing University",
+					"time": "9/2011-7/2015",
+					"description": "Bachelor of Software Engineering"
+				}
+			]
 		},
 		{
 			"title": "Experience",
@@ -19,33 +31,53 @@
 			[
 				{
 					"subtitle": "Wiredcraft",
-					"time": "Front-end Engineer, 2/2018 - now",
-					"description": "Located in Shanghai and Berlin, Wiredcraft is a multicultural team of over 50 creatives, technologist and strategists. We help the largest brands (e.g., Starbucks, Nike, Walmart) in the world design, create and grow digital solutions that impact millions of people."
+					"time": "Front-end Engineer, 2/2018-7/2019",
+					"description": "A multicultural team of over 50 creatives, technologist and strategists. We help the largest brands in the world design, create and grow digital solutions.",
+					"roles": [
+						{"text": "Lead maintainer of Starbucks China website (React + Redux + Jekyll + LoopBack)."},
+						{"text": "Lead maintainer of World Bank Open Data platform (React + Redux + D3.js + Falcor + Redis)."},
+						{"text": "Analyst on-site at Nike Shanghai, helping on their first WeChat Mini-Program (React + Redux)."}
+					]
 				},
 				{
 					"subtitle": "Freelancer",
-					"time": "Part-time Front-end Engineer 3/2017-2/2018",
-					"description": "Providing outsourcing and consultancy services for startups, and spending rest of the time in libraries studying Computer Science, History and Philosophy."
+					"time": "Front-end Engineer 3/2017-2/2018",
+					"description": "Providing outsourcing and consultancy services for startups.",
+					"roles": [
+						{"text": "Engaged in the Slate.js open-source project."}
+					]
 				},
 				{
 					"subtitle": "Zhihu",
 					"time": "Front-end Engineer, 8/2015-2/2017 / Front-end Engineer Intern, 7/2014-3/2015",
-					"description": "Zhihu is a Chinese equation to Quora, and was a small but promising startup when I joined in 2014. It has grown into a mid-level company who has finished its $100M Series D financing. I experienced the commercialization process as well as the redesign and refactor of the website."
+					"description": "Zhihu is a Chinese equation to Quora, a mid-level company that has finished its Series E financing. It was a small but promising startup when I joined in 2014.",
+					"roles": [
+						{"text": "Built the first version of the Zhihu advertising platform (React + Redux + Tornado)."},
+						{"text": "Maintained the legacy website (Google Closure + Tornado)."},
+						{"text": "Redesigned and refactored the main website and codebase (React + Redux + Koa)."},
+						{"text": "In charge of internal UI kit, including a complex rich-text module (React + PostCSS + Draft.js)."}
+					]
 				},
 				{
 					"subtitle": "MyDocumate.com",
 					"time": "Part-time Front-end Engineer, 11/2013-5/2014",
-					"description": "A startup founded by college students, aimed at helping Chinese students study abroad. I was involved in building the first version of the website."
+					"description": "A startup founded by college students, aimed at helping Chinese students study abroad.",
+					"roles": [
+						{"text": "Involved in building the first version of the website (jQuery + Foundation + Yii)."}
+					]
 				},
 				{
 					"subtitle": "Alibaba",
 					"time": "Front-end Engineer Intern, 7/2013-9/2013",
-					"description": "One of the largest tech companies in the world. I had my first internship in the Juhuasuan UED Department."
+					"description": "One of the largest tech companies in the world.",
+					"roles": [
+						{"text": "My first internship in the Taobao UED Department."}
+					]
 				},
 				{
 					"subtitle": "Nanjing University Lily Studio",
 					"time": "Leader of Art Group, 2012-2013",
-					"description": "Lily Studio is a non-profit organization made up of college students who are enthusiastic about the Internet. We are committed to spreading Web technologies and building useful websites for students."
+					"description": "A non-profit organization made up of college students who are enthusiastic about the Internet, committed to spreading Web technologies and building useful websites for students."
 				}
 			]
 		}
@@ -54,11 +86,11 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript/CSS/HTML", "Python/Node.js/Java/C++", "HTTP/TCP/IP", "Git"]
+			"list": ["JavaScript/CSS/HTML", "React/Redux/GraphQL", "Python/Node.js/Java/C++/SQL", "Machine Learning/NLP/HCI", "HTTP/TLS/TCP/DNS/IP", "macOS/*nix", "Git"]
 		},
 		{
 			"title": "Languages",
-			"list": ["Chinese", "English(TOEFL100/CET-6)"]
+			"list": ["Chinese(native)", "English(C1)", "High German(A2)"]
 		},
 		{
 			"title": "Interests",
