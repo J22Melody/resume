@@ -6,7 +6,7 @@
 	"name": "Zifan Jiang",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
-	"address": "Uetlibergstrasse 111b/801, Zurich 8045",
+	"address": "Auhofstrasse 20, Zurich 8051",
 
 	"content":[
 		{
@@ -17,6 +17,11 @@
 					"subtitle": "University of Zurich",
 					"time": "9/2019-now",
 					"description": "Master of Informatics, major in People-Oriented Computing"
+				},
+				{
+					"subtitle": "ETH Zurich",
+					"time": "9/2019-now",
+					"description": "Registered as special student, course sharing with UZH"
 				},
 				{
 					"subtitle": "Nanjing University",
@@ -30,8 +35,27 @@
 			"details":
 			[
 				{
+					"subtitle": "ReAdvisor",
+					"time": "Master project, 1/2021-now, Zurich",
+					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"roles": [
+						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
+						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
+						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+					]
+				},
+				{
+					"subtitle": "University of Zurich",
+					"time": "Teaching Assistant for Informatics II, 1/2021-now, Zurich",
+					"description": "A fundamental Informatics course, providing in-depth understanding οf algorithms and data structures.",
+					"roles": [
+						{"text": "Design exercises as well as exam questions and solutions (C + Latex)."},
+						{"text": "Offer Q&A to students."}
+					]
+				},
+				{
 					"subtitle": "Wiredcraft",
-					"time": "Front-end Engineer, 2/2018-7/2019",
+					"time": "Front-end Engineer, 2/2018-7/2019, Shanghai",
 					"description": "A multicultural team of over 50 creatives, technologist and strategists. We help the largest brands in the world design, create and grow digital solutions.",
 					"roles": [
 						{"text": "Lead maintainer of Starbucks China website (React + Redux + Jekyll + LoopBack)."},
@@ -40,17 +64,9 @@
 					]
 				},
 				{
-					"subtitle": "Freelancer",
-					"time": "Front-end Engineer 3/2017-2/2018",
-					"description": "Providing outsourcing and consultancy services for startups.",
-					"roles": [
-						{"text": "Engaged in the Slate.js open-source project."}
-					]
-				},
-				{
 					"subtitle": "Zhihu",
-					"time": "Front-end Engineer, 8/2015-2/2017 / Front-end Engineer Intern, 7/2014-3/2015",
-					"description": "Zhihu is a Chinese equation to Quora, a mid-level company that has finished its Series E financing. It was a small but promising startup when I joined in 2014.",
+					"time": "Front-end Engineer, 8/2015-3/2017 / Front-end Engineer Intern, 7/2014-3/2015, Beijing",
+					"description": "Zhihu is a Chinese equation to Quora. It was a small, exciting and promising startup when I joined in 2014.",
 					"roles": [
 						{"text": "Built the first version of the Zhihu advertising platform (React + Redux + Tornado)."},
 						{"text": "Maintained the legacy website (Google Closure + Tornado)."},
@@ -60,7 +76,7 @@
 				},
 				{
 					"subtitle": "MyDocumate.com",
-					"time": "Part-time Front-end Engineer, 11/2013-5/2014",
+					"time": "Part-time Front-end Engineer, 11/2013-5/2014, Nanjing",
 					"description": "A startup founded by college students, aimed at helping Chinese students study abroad.",
 					"roles": [
 						{"text": "Involved in building the first version of the website (jQuery + Foundation + Yii)."}
@@ -68,16 +84,19 @@
 				},
 				{
 					"subtitle": "Alibaba",
-					"time": "Front-end Engineer Intern, 7/2013-9/2013",
+					"time": "Front-end Engineer Intern, 7/2013-9/2013, Hangzhou",
 					"description": "One of the largest tech companies in the world.",
 					"roles": [
-						{"text": "My first internship in the Taobao UED Department."}
+						{"text": "Internship experience in the Taobao User Experience Design Department, built Web pages that are used by millions of users (JavaScript + Java)."}
 					]
 				},
 				{
 					"subtitle": "Nanjing University Lily Studio",
-					"time": "Leader of Art Group, 2012-2013",
-					"description": "A non-profit organization made up of college students who are enthusiastic about the Internet, committed to spreading Web technologies and building useful websites for students."
+					"time": "Leader of Art Group, 2012-2013, Nanjing",
+					"description": "A non-profit organization made up of college students who are enthusiastic about the Internet.",
+					"roles": [
+						{"text": "Committed to spreading Web technologies and building websites for university students."}
+					]
 				}
 			]
 		}
@@ -86,15 +105,15 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript/CSS/HTML", "React/Redux/GraphQL", "Python/Node.js/Java/C++/SQL", "Machine Learning/NLP/HCI", "HTTP/TLS/TCP/DNS/IP", "macOS/*nix", "Git"]
+			"list": ["JavaScript/CSS/HTML", "React/Redux/GraphQL", "Python/Node.js/Java/C/C++", "AI/ML/NLP/PyTorch/TensorFlow", "HTTP/TLS/TCP/DNS/IP", "macOS/Windows/*nix", "Docker/Kubernetes", "SQL/NoSQL", "Git/SVN"]
 		},
 		{
 			"title": "Languages",
-			"list": ["Chinese(native)", "English(C1)", "High German(A2)"]
+			"list": ["Mandarin(native)", "English(C1)", "German(A2)"]
 		},
 		{
 			"title": "Interests",
-			"list": ["Programming", "Reading", "Traveling"]
+			"list": ["Programming", "Traveling", "Thinking", "Reading", "Gaming", "Hiking"]
 		}
 	]
 }

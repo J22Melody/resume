@@ -154,7 +154,7 @@ header {
 }
 
 header h1 {
-    font-size: 4em;
+    font-size: 2.6em;
     font-weight: normal;
 }
 
@@ -206,7 +206,7 @@ dt .time {
 }
 
 dd, section p {
-    margin: 0 0 1.8em 0;
+    margin: 0 0 1em 0;
     color: #555;
 }
 
@@ -529,7 +529,11 @@ dd, section p {
     }
 
     dl, dl li {
-        line-height: 1.5em;
+        line-height: 1.35em;
+    }
+
+    .resume-en .sidebar {
+        margin-top: 20px;
     }
 }
 

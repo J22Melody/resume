@@ -125,12 +125,12 @@ a:hover {
 
 h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin: 1em 0;
 }
 
 h2 {
     font-size: 1.5em;
-    margin: 0.83em 0;
+    margin: 0.2em 0;
 }
 
 h3 {
@@ -281,7 +281,7 @@ dl,
 menu,
 ol,
 ul {
-    margin: 1em 0;
+    margin: 0.8em 0;
 }
 
 dd {
