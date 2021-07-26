@@ -16,12 +16,12 @@
 				{
 					"subtitle": "University of Zurich",
 					"time": "9/2019-now",
-					"description": "Master of Informatics, major in People-Oriented Computing"
+					"description": "Master of Informatics, major in Data Science"
 				},
 				{
 					"subtitle": "ETH Zurich",
 					"time": "9/2019-now",
-					"description": "Registered as special student, course sharing with UZH"
+					"description": "Registered as special student, sharing Computer Science courses with UZH"
 				},
 				{
 					"subtitle": "Nanjing University",
@@ -31,9 +31,29 @@
 			]
 		},
 		{
-			"title": "Experience",
+			"title": "Experience and Projects",
 			"details":
 			[
+				{
+					"subtitle": "Master Thesis",
+					"time": "Master project, 1/2021-now, Zurich",
+					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"roles": [
+						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
+						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
+						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+					]
+				},
+				{
+					"subtitle": "EVOPHON Programmer",
+					"time": "Master project, 1/2021-now, Zurich",
+					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"roles": [
+						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
+						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
+						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+					]
+				},
 				{
 					"subtitle": "ReAdvisor",
 					"time": "Master project, 1/2021-now, Zurich",
@@ -105,11 +125,11 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript/CSS/HTML", "React/Redux/GraphQL", "Python/Node.js/Java/C/C++", "AI/ML/NLP/PyTorch/TensorFlow", "HTTP/TLS/TCP/DNS/IP", "macOS/Windows/*nix", "Docker/Kubernetes", "SQL/NoSQL", "Git/SVN"]
+			"list": ["JavaScript/CSS/HTML (expert)", "React/Redux (expert)", "Python/Node.js/Java/C/C++ (fluent)", "AI/ML/NLP/PyTorch/Keras (fluent)", "HTTP/TLS/TCP/DNS/IP (fluent)", "macOS/Windows/*nix (fluent)", "Docker/Kubernetes (prior experience)", "SQL/NoSQL (prior experience)", "HCI/Design/Sketch (prior experience)", "Git (fluent)"]
 		},
 		{
 			"title": "Languages",
-			"list": ["Mandarin(native)", "English(C1)", "German(A2)"]
+			"list": ["Mandarin (native)", "English (C1)", "German (A2)"]
 		},
 		{
 			"title": "Interests",
