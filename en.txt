@@ -6,7 +6,7 @@
 	"name": "Zifan Jiang",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
-	"address": "Auhofstrasse 20, Zurich 8051",
+	"address": "",
 
 	"content":[
 		{
@@ -16,57 +16,61 @@
 				{
 					"subtitle": "University of Zurich",
 					"time": "9/2019-now",
-					"description": "Master of Informatics, major in Data Science"
+					"description": "Master of Informatics, major in Data Science, GPA ≈ 5.4/6.0 (TBD)."
 				},
 				{
 					"subtitle": "ETH Zurich",
 					"time": "9/2019-now",
-					"description": "Registered as special student, sharing Computer Science courses with UZH"
+					"description": "Registered as special student, sharing Computer Science courses with UZH."
 				},
 				{
 					"subtitle": "Nanjing University",
 					"time": "9/2011-7/2015",
-					"description": "Bachelor of Software Engineering"
+					"description": "Bachelor of Software Engineering."
 				}
 			]
 		},
 		{
-			"title": "Experience and Projects",
+			"title": "Recent Projects",
 			"details":
 			[
 				{
-					"subtitle": "Master Thesis",
-					"time": "Master project, 1/2021-now, Zurich",
-					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"subtitle": "Sign Language Translation",
+					"time": "Master Thesis, 9/2021-now, Zurich",
+					"description": "Supervised by Prof. Martin Volk and Dr. Mathias Müller from UZH Computational Linguistics Dept., I start my master thesis on building a machine translation model between sign languages and spoken languages.",
 					"roles": [
-						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
-						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
-						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+						{"text": "The sign language side is based on the popular sign language written system SignWriting."},
+						{"text": "The spoken language side is ideally multilingual, including common languages such as English and German."}
 					]
 				},
 				{
-					"subtitle": "EVOPHON Programmer",
-					"time": "Master project, 1/2021-now, Zurich",
-					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"subtitle": "SNSF Evolution of Phonetics and Phonology",
+					"time": "Part-time scientific programmer, 8/2021-now, Zurich",
+					"description": "Work with Prof. Steven Moran from UniNE and an interdisciplinary team of researchers investigating the evolutionary origins of language.",
 					"roles": [
-						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
-						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
-						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+						{"text": "Develop novel datasets such as PHOIBLE (CLDF, SQL, CSV, XML, etc.) for comparative research."},
+						{"text": "Apply data science techniques such as dimensionality reduction to analyze language data."}
 					]
 				},
 				{
-					"subtitle": "ReAdvisor",
-					"time": "Master project, 1/2021-now, Zurich",
-					"description": "Supervised by Prof. Gerhard Schwabe from Information Management Research Group, we work together with the Dept. of Computational Linguistics and re:spondelligent on an Intelligent Customer Feedback Management project.",
+					"subtitle": "ReAdvisor: Intelligent Customer Feedback Management",
+					"time": "Master project, 1/2021-8/2021, Zurich",
+					"description": "Supervised by Prof. Gerhard Schwabe from UZH Information Management Research Group, we work together with UZH Computational Linguistics Dept. and external partner Re:spondelligent to handle online reviews with AI techniques.",
 					"roles": [
 						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
-						{"text": "Design and implement an online schelding model: given reviews and authors, assgin reviews to authors based on language, difficulty, availability, etc."},
-						{"text": "Design and implement the front-end (Bootstrap) and back-end (Flask + Dockerized API)."}
+						{"text": "Design and implement an online scheduling model: given reviews and authors, assign reviews to authors based on language, difficulty, availability, etc."},
+						{"text": "Design and implement the front-end (Bootstrap + Svelte) and back-end (Dockerized Flask API)."}
 					]
-				},
+				}
+			]
+		},
+		{
+			"title": "Past Experience",
+			"details":
+			[
 				{
 					"subtitle": "University of Zurich",
-					"time": "Teaching Assistant for Informatics II, 1/2021-now, Zurich",
+					"time": "Teaching Assistant for Informatics II, 1/2021-6/2021, Zurich",
 					"description": "A fundamental Informatics course, providing in-depth understanding οf algorithms and data structures.",
 					"roles": [
 						{"text": "Design exercises as well as exam questions and solutions (C + Latex)."},
@@ -125,11 +129,11 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript/CSS/HTML (expert)", "React/Redux (expert)", "Python/Node.js/Java/C/C++ (fluent)", "AI/ML/NLP/PyTorch/Keras (fluent)", "HTTP/TLS/TCP/DNS/IP (fluent)", "macOS/Windows/*nix (fluent)", "Docker/Kubernetes (prior experience)", "SQL/NoSQL (prior experience)", "HCI/Design/Sketch (prior experience)", "Git (fluent)"]
+			"list": ["JavaScript/CSS/HTML (expert)", "React/Redux (expert)", "Python/Node.js/Java/C/C++ (fluent)", "AI/ML/NLP/PyTorch/Keras (fluent)", "HTTP/TLS/TCP/DNS/IP (fluent)", "macOS/Windows/*nix (fluent)", "SQL/NoSQL (fluent)", "Git (fluent)", "Docker/Kubernetes (prior experience)", "HCI/Design/Sketch (prior experience)"]
 		},
 		{
 			"title": "Languages",
-			"list": ["Mandarin (native)", "English (C1)", "German (A2)"]
+			"list": ["Mandarin (native)", "English (C1)", "German (B1)"]
 		},
 		{
 			"title": "Interests",
