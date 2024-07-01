@@ -14,14 +14,14 @@
 			"details":
 			[
 				{
-					"subtitle": "University of Zurich",
-					"time": "9/2019-now",
-					"description": "Master of Informatics, major in Data Science, GPA ≈ 5.4/6.0 (TBD)."
-				},
-				{
-					"subtitle": "ETH Zurich",
-					"time": "9/2019-now",
-					"description": "Registered as special student, sharing Computer Science courses with UZH."
+					"subtitle": "University of Zurich / ETH Zurich",
+					"time": "9/2019-3/2022",
+					"description": "Master of Informatics at University of Zurich, major in Data Science, GPA ≈ 5.4/6.0 (TBD).",
+					"roles": [
+						{"text": "Registered as special student at ETHZ (course sharing), try to make the most from both universities."},
+						{"text": "Strong interest in Linguistics and language technology: attended courses such as natural language processing, machine translation, deep learning."},
+						{"text": "Love the Internet: attended courses such as future Internet, network security, Web and mobile accessibility."}
+					]
 				},
 				{
 					"subtitle": "Nanjing University",
@@ -37,10 +37,11 @@
 				{
 					"subtitle": "Sign Language Translation",
 					"time": "Master Thesis, 9/2021-now, Zurich",
-					"description": "Supervised by Prof. Martin Volk and Dr. Mathias Müller from UZH Computational Linguistics Dept., I start my master thesis on building a machine translation model between sign languages and spoken languages.",
+					"description": "Supervised by Prof. Martin Volk and Dr. Mathias Müller from UZH Computational Linguistics Dept., I build a novel machine translation system between sign languages and spoken languages in PyTorch.",
 					"roles": [
-						{"text": "The sign language side is based on the popular sign language written system SignWriting."},
-						{"text": "The spoken language side is ideally multilingual, including common languages such as English and German."}
+						{"text": "The sign language side is based on sign language written system SignWriting (no research on it before)."},
+						{"text": "The spoken language side is ideally multilingual, including common languages such as EN and DE."},
+						{"text": "Evaluation results: TBD"}
 					]
 				},
 				{
@@ -48,7 +49,7 @@
 					"time": "Part-time scientific programmer, 8/2021-now, Zurich",
 					"description": "Work with Prof. Steven Moran from UniNE and an interdisciplinary team of researchers investigating the evolutionary origins of language.",
 					"roles": [
-						{"text": "Develop novel datasets such as PHOIBLE (CLDF, SQL, CSV, XML, etc.) for comparative research."},
+						{"text": "Develop novel datasets such as PHOIBLE (containing 100k phonemes, 20k languages, in formats including CLDF, SQL, CSV, XML, etc.) for comparative research."},
 						{"text": "Apply data science techniques such as dimensionality reduction to analyze language data."}
 					]
 				},
@@ -57,7 +58,7 @@
 					"time": "Master project, 1/2021-8/2021, Zurich",
 					"description": "Supervised by Prof. Gerhard Schwabe from UZH Information Management Research Group, we work together with UZH Computational Linguistics Dept. and external partner Re:spondelligent to handle online reviews with AI techniques.",
 					"roles": [
-						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score of responding to it."},
+						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score (1, 2, 3) of responding to it, scored 81% testing accuracy."},
 						{"text": "Design and implement an online scheduling model: given reviews and authors, assign reviews to authors based on language, difficulty, availability, etc."},
 						{"text": "Design and implement the front-end (Bootstrap + Svelte) and back-end (Dockerized Flask API)."}
 					]
@@ -73,7 +74,7 @@
 					"time": "Teaching Assistant for Informatics II, 1/2021-6/2021, Zurich",
 					"description": "A fundamental Informatics course, providing in-depth understanding οf algorithms and data structures.",
 					"roles": [
-						{"text": "Design exercises as well as exam questions and solutions (C + Latex)."},
+						{"text": "Design 12 different topic exercises as well as exam questions and solutions (C + Latex)."},
 						{"text": "Offer Q&A to students."}
 					]
 				},
@@ -137,7 +138,7 @@
 		},
 		{
 			"title": "Interests",
-			"list": ["Programming", "Traveling", "Thinking", "Reading", "Gaming", "Hiking"]
+			"list": ["Traveling", "Thinking", "Reading", "Gaming", "Hiking"]
 		}
 	]
 }
