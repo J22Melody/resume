@@ -136,7 +136,7 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["Sign Language Processing", "Machine Translation", "Computer Vision", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering"]
+			"list": ["Sign Language Processing", "Machine Translation", "Video Understanding", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering"]
 		},
 		{
 			"title": "Programming Languages",
