@@ -27,7 +27,7 @@
 					"time": "Master, 9/2019-3/2022, Zurich",
 					"description": "Master of Informatics at University of Zurich, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
 					"roles": [
-						{"text": "A registered special student at ETH Zurich, 45 ECTS Credits earned at the Computer Science department."},
+						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned at the Computer Science department."},
 						{"text": "Master thesis on Machine Translation between Spoken Languages and Signed Languages in Written Form."}
 					]
 				},
