@@ -18,7 +18,8 @@
 					"time": "Ph.D., 4/2022-now, Zurich",
 					"description": "Ph.D. (ongoing) in Computational Linguistics and Phonetics at University of Zurich.",
 					"roles": [
-						{"text": "Topic in sign language processing, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."}
+						{"text": "Topic in sign language processing, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."},
+						{"text": "I have publications in top computational linguistics conferences (including ACL, EMNLP, EACL, LREC-COLING, and WMT) and regularly serve as a reviewer for ACL Rolling Review."}
 					]
 				},
 				{
@@ -38,7 +39,7 @@
 			]
 		},
 		{
-			"title": "Project Employment",
+			"title": "Projects",
 			"details":
 			[
 				{
@@ -50,6 +51,11 @@
 					"subtitle": "SNSF Evolution of Phonetics and Phonology",
 					"time": "Scientific programmer, 8/2021-now, Neuchâtel",
 					"description": "Working with Prof. Dr. Steven Moran and an interdisciplinary team of researchers investigating the evolutionary origins of language and speech, e.g., PHOIBLE, a cross-linguistic phonological database."
+				},
+				{
+					"subtitle": "WMT Shared Task on Sign Language Translation",
+					"time": "Organizer, 2022/2023",
+					"description": "We (sign language research group from UZH) led the WMT-SLT shared task for two consecutive years. I worked on curating and releasing the datasets, including the daily news corpus and the Signsuisse lexicon."
 				}
 			]
 		},
