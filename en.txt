@@ -1,5 +1,5 @@
 {
-	"document_title": "Zifan Jiang's Résumé",
+	"document_title": "Zifan Jiang's CV",
 	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
 	"download_pdf": "download as PDF",
 
@@ -14,54 +14,90 @@
 			"details":
 			[
 				{
-					"subtitle": "University of Zurich / ETH Zurich",
-					"time": "9/2019-3/2022",
-					"description": "Master of Informatics at University of Zurich, major in Data Science, GPA ≈ 5.4/6.0 (TBD).",
+					"subtitle": "University of Zurich",
+					"time": "Ph.D., 4/2022-now, Zurich",
+					"description": "Ph.D. (ongoing) in Computational Linguistics and Phonetics at University of Zurich.",
 					"roles": [
-						{"text": "Registered as special student at ETHZ (course sharing), try to make the most from both universities."},
-						{"text": "Strong interest in Linguistics and language technology: attended courses such as natural language processing, machine translation, deep learning."},
-						{"text": "Love the Internet: attended courses such as future Internet, network security, Web and mobile accessibility."}
+						{"text": "Topic in sign language processing, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."}
+					]
+				},
+				{
+					"subtitle": "University of Zurich / ETH Zurich",
+					"time": "Master, 9/2019-3/2022, Zurich",
+					"description": "Master of Informatics at University of Zurich, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
+					"roles": [
+						{"text": "A registered special student at ETH Zurich, 45 ECTS Credits earned at the Computer Science department."},
+						{"text": "Master thesis on Machine Translation between Spoken Languages and Signed Languages in Written Form."}
 					]
 				},
 				{
 					"subtitle": "Nanjing University",
-					"time": "9/2011-7/2015",
+					"time": "Bachelor, 9/2011-7/2015, Nanjing",
 					"description": "Bachelor of Software Engineering."
 				}
 			]
 		},
 		{
-			"title": "Recent Projects",
+			"title": "Project Employment",
 			"details":
 			[
 				{
-					"subtitle": "Sign Language Translation",
-					"time": "Master Thesis, 9/2021-now, Zurich",
-					"description": "Supervised by Prof. Martin Volk and Dr. Mathias Müller from UZH Computational Linguistics Dept., I build a novel machine translation system between sign languages and spoken languages in PyTorch.",
-					"roles": [
-						{"text": "The sign language side is based on sign language written system SignWriting (no research on it before)."},
-						{"text": "The spoken language side is ideally multilingual, including common languages such as EN and DE."},
-						{"text": "Evaluation results: TBD"}
-					]
+					"subtitle": "Innosuisse Flagship IICT",
+					"time": "Ph.D. funding, 4/2022-now, Zurich",
+					"description": "Working with partners and deaf colleagues from SWISS TXT, HfH (Zurich Training College for Teachers of Special Needs), University of Surrey and others on subproject 2: automatic sign language translation."
 				},
 				{
 					"subtitle": "SNSF Evolution of Phonetics and Phonology",
-					"time": "Part-time scientific programmer, 8/2021-now, Zurich",
-					"description": "Work with Prof. Steven Moran from UniNE and an interdisciplinary team of researchers investigating the evolutionary origins of language.",
-					"roles": [
-						{"text": "Develop novel datasets such as PHOIBLE (containing 100k phonemes, 20k languages, in formats including CLDF, SQL, CSV, XML, etc.) for comparative research."},
-						{"text": "Apply data science techniques such as dimensionality reduction to analyze language data."}
-					]
+					"time": "Scientific programmer, 8/2021-now, Neuchâtel",
+					"description": "Working with Prof. Dr. Steven Moran and an interdisciplinary team of researchers investigating the evolutionary origins of language and speech, e.g., PHOIBLE, a cross-linguistic phonological database."
+				}
+			]
+		},
+		{
+			"title": "Teaching",
+			"details":
+			[
+				{
+					"subtitle": "Essentials in Text and Speech Processing",
+					"time": "Fall 2024, University of Zurich",
+					"description": "Lecturer for Fall 2024 and teaching assistant for Fall 2023."
 				},
 				{
-					"subtitle": "ReAdvisor: Intelligent Customer Feedback Management",
-					"time": "Master project, 1/2021-8/2021, Zurich",
-					"description": "Supervised by Prof. Gerhard Schwabe from UZH Information Management Research Group, we work together with UZH Computational Linguistics Dept. and external partner Re:spondelligent to handle online reviews with AI techniques.",
-					"roles": [
-						{"text": "Design and train a scoring model: given an online review and its sentiment, output a difficulty score (1, 2, 3) of responding to it, scored 81% testing accuracy."},
-						{"text": "Design and implement an online scheduling model: given reviews and authors, assign reviews to authors based on language, difficulty, availability, etc."},
-						{"text": "Design and implement the front-end (Bootstrap + Svelte) and back-end (Dockerized Flask API)."}
-					]
+					"subtitle": "Intermediate Methods and Programming in Digital Linguistics",
+					"time": "Spring 2024, University of Zurich"
+				},
+				{
+					"subtitle": "Multimodality 101",
+					"time": "Fall 2023, University of Zurich",
+					"description": "Guest lecture for the Ph.D. seminar Advanced Methods for Text and Speech Processing."
+				},
+				{
+					"subtitle": "Sign Language Processing",
+					"time": "Fall 2023, University of Zurich",
+					"description": "Guest lecture for the course Artificial Intelligence for Language Accessibility."
+				},
+				{
+					"subtitle": "Intro to Machine Learning",
+					"time": "Fall 2023 /  Fall 2022 / Spring 2022, University of Neuchâtel",
+					"description": "Guest lecture for the course Intro to Data Science."
+				}
+			]
+		},
+		{
+			"title": "Awards and Outreach",
+			"details":
+			[
+				{
+					"subtitle": "Swiss NLP Award for work in sign language translation",
+					"time": "SwissText conference, 6/2024, Chur"
+				},
+				{
+					"subtitle": "Invited talk Understanding Great Ape Calls and Gestures with Deep Pretrained Neural Networks covered by science magazine l'uniscope.",
+					"time": "EFP conference, 6/2024, Lausanne"
+				},
+				{
+					"subtitle": "Outstanding Paper Award for the paper: Considerations for meaningful sign language machine translation based on glosses",
+					"time": "ACL conference, 7/2023, Toronto"
 				}
 			]
 		},
@@ -71,57 +107,27 @@
 			[
 				{
 					"subtitle": "University of Zurich",
-					"time": "Teaching Assistant for Informatics II, 1/2021-6/2021, Zurich",
-					"description": "A fundamental Informatics course, providing in-depth understanding οf algorithms and data structures.",
-					"roles": [
-						{"text": "Design 12 different topic exercises as well as exam questions and solutions (C + Latex)."},
-						{"text": "Offer Q&A to students."}
-					]
+					"time": "Teaching assistant for Informatics II (data structures and algorithms), Spring 2021, Zurich"
 				},
 				{
 					"subtitle": "Wiredcraft",
-					"time": "Front-end Engineer, 2/2018-7/2019, Shanghai",
-					"description": "A multicultural team of over 50 creatives, technologist and strategists. We help the largest brands in the world design, create and grow digital solutions.",
-					"roles": [
-						{"text": "Lead maintainer of Starbucks China website (React + Redux + Jekyll + LoopBack)."},
-						{"text": "Lead maintainer of World Bank Open Data platform (React + Redux + D3.js + Falcor + Redis)."},
-						{"text": "Analyst on-site at Nike Shanghai, helping on their first WeChat Mini-Program (React + Redux)."}
-					]
+					"time": "Front-end engineer, 2/2018-7/2019, Shanghai"
 				},
 				{
 					"subtitle": "Zhihu",
-					"time": "Front-end Engineer, 8/2015-3/2017 / Front-end Engineer Intern, 7/2014-3/2015, Beijing",
-					"description": "Zhihu is a Chinese equation to Quora. It was a small, exciting and promising startup when I joined in 2014.",
-					"roles": [
-						{"text": "Built the first version of the Zhihu advertising platform (React + Redux + Tornado)."},
-						{"text": "Maintained the legacy website (Google Closure + Tornado)."},
-						{"text": "Redesigned and refactored the main website and codebase (React + Redux + Koa)."},
-						{"text": "In charge of internal UI kit, including a complex rich-text module (React + PostCSS + Draft.js)."}
-					]
+					"time": "Front-end engineer, 8/2015-3/2017 & front-end engineer intern, 7/2014-3/2015, Beijing"
 				},
 				{
-					"subtitle": "MyDocumate.com",
-					"time": "Part-time Front-end Engineer, 11/2013-5/2014, Nanjing",
-					"description": "A startup founded by college students, aimed at helping Chinese students study abroad.",
-					"roles": [
-						{"text": "Involved in building the first version of the website (jQuery + Foundation + Yii)."}
-					]
+					"subtitle": "MyDocumate (ZhiShiQ)",
+					"time": "Part-time front-end engineer, 11/2013-5/2014, Nanjing"
 				},
 				{
 					"subtitle": "Alibaba",
-					"time": "Front-end Engineer Intern, 7/2013-9/2013, Hangzhou",
-					"description": "One of the largest tech companies in the world.",
-					"roles": [
-						{"text": "Internship experience in the Taobao User Experience Design Department, built Web pages that are used by millions of users (JavaScript + Java)."}
-					]
+					"time": "Front-end engineer intern, 7/2013-9/2013, Hangzhou"
 				},
 				{
 					"subtitle": "Nanjing University Lily Studio",
-					"time": "Leader of Art Group, 2012-2013, Nanjing",
-					"description": "A non-profit organization made up of college students who are enthusiastic about the Internet.",
-					"roles": [
-						{"text": "Committed to spreading Web technologies and building websites for university students."}
-					]
+					"time": "Leader of the Art Group, 2012-2013, Nanjing"
 				}
 			]
 		}
@@ -130,15 +136,19 @@
 	[
 		{
 			"title": "Skills",
-			"list": ["JavaScript/CSS/HTML (expert)", "React/Redux (expert)", "Python/Node.js/Java/C/C++ (fluent)", "AI/ML/NLP/PyTorch/Keras (fluent)", "HTTP/TLS/TCP/DNS/IP (fluent)", "macOS/Windows/*nix (fluent)", "SQL/NoSQL (fluent)", "Git (fluent)", "Docker/Kubernetes (prior experience)", "HCI/Design/Sketch (prior experience)"]
+			"list": ["Sign Language Processing", "Machine Translation", "Computer Vision", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering"]
 		},
 		{
-			"title": "Languages",
-			"list": ["Mandarin (native)", "English (C1)", "German (B1)"]
+			"title": "Programming Languages",
+			"list": ["JavaScript/CSS/HTML (expert)", "Python/Node.js (fluent)", "Java/C/C++ (prior experience)", "LaTeX (fluent)"]
 		},
 		{
-			"title": "Interests",
-			"list": ["Traveling", "Thinking", "Reading", "Gaming", "Hiking"]
+			"title": "Natural Languages",
+			"list": ["Mandarin Chinese (native)", "Wu Chinese (native)", "English (C1)", "German (B1)", "American Sign Language (A1)"]
+		},
+		{
+			"title": "Hobbies",
+			"list": ["Traveling", "Thinking", "Reading", "Gaming"]
 		}
 	]
 }
