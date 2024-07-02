@@ -62,11 +62,14 @@
                         <dt>{{subtitle}}<span class="time">{{time}}</span></dt>
                         <dd>
                         {{description}}
+                        {{#description}}
+                        <br />
+                        {{/description}}
                         {{#link}}
                             <br /><a href="{{href}}" target="_blank" class="description-link">&rArr; {{text}}</a>
                         {{/link}}
                         {{#roles}}
-                            <br /><span>&rArr; {{text}}</span>
+                            <span>&rArr; {{text}}</span><br />
                         {{/roles}}
                         </dd>
                     </dl>
