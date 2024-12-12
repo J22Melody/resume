@@ -14,9 +14,17 @@
 			"details":
 			[
 				{
+					"subtitle": "University of Oxford",
+					"time": "11/2024-5/2025, Oxford",
+					"description": "Visiting Ph.D. student in Computer Vision.",
+					"roles": [
+						{"text": "I am doing a research visit at the Visual Geometry Group under the supervision of Professor Andrew Zisserman, working on the recognition and translation of (British) sign language videos."}
+					]
+				},
+				{
 					"subtitle": "University of Zurich",
-					"time": "Ph.D., 4/2022-now, Zurich",
-					"description": "Ph.D. (ongoing) in Computational Linguistics and Phonetics at University of Zurich.",
+					"time": "4/2022-now, Zurich",
+					"description": "Ph.D. in Computational Linguistics and Phonetics.",
 					"roles": [
 						{"text": "Topic in sign language processing, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."},
 						{"text": "I have publications in top computational linguistics conferences (including ACL, EMNLP, EACL, LREC-COLING, and WMT) and regularly serve as a reviewer for ACL Rolling Review."}
@@ -24,8 +32,8 @@
 				},
 				{
 					"subtitle": "University of Zurich / ETH Zurich",
-					"time": "Master, 9/2019-3/2022, Zurich",
-					"description": "Master of Informatics at University of Zurich, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
+					"time": "9/2019-3/2022, Zurich",
+					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
 					"roles": [
 						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned at the Computer Science department."},
 						{"text": "Master thesis on Machine Translation between Spoken Languages and Signed Languages in Written Form."}
@@ -33,27 +41,27 @@
 				},
 				{
 					"subtitle": "Nanjing University",
-					"time": "Bachelor, 9/2011-7/2015, Nanjing",
+					"time": "9/2011-7/2015, Nanjing",
 					"description": "Bachelor of Software Engineering."
 				}
 			]
 		},
 		{
-			"title": "Projects",
+			"title": "Project Highlights",
 			"details":
 			[
 				{
 					"subtitle": "Innosuisse Flagship IICT",
-					"time": "Ph.D. funding, 4/2022-now, Zurich",
+					"time": "Ph.D. funding project, 4/2022-now, Zurich",
 					"description": "Working with partners and deaf colleagues from SWISS TXT, HfH (Zurich Training College for Teachers of Special Needs), University of Surrey and others on subproject 2: automatic sign language translation."
 				},
 				{
 					"subtitle": "SNSF Evolution of Phonetics and Phonology",
-					"time": "Scientific programmer, 8/2021-now, Neuchâtel",
-					"description": "Working with Prof. Dr. Steven Moran and an interdisciplinary team of researchers investigating the evolutionary origins of language and speech, e.g., PHOIBLE, a cross-linguistic phonological database."
+					"time": "Part-time scientific programmer, 8/2021-8/2024, Neuchâtel",
+					"description": "Working with Prof. Dr. Steven Moran and an interdisciplinary team investigating the evolutionary origins of language and speech (e.g., PHOIBLE, a cross-linguistic phonological database) and animal communication."
 				},
 				{
-					"subtitle": "WMT Shared Task on Sign Language Translation",
+					"subtitle": "WMT Shared Task on Sign Language Translation (WMT-SLT)",
 					"time": "Organizer, 2022/2023",
 					"description": "We (sign language research group from UZH) led the WMT-SLT shared task for two consecutive years. I worked on curating and releasing the datasets, including the daily news corpus and the Signsuisse lexicon."
 				}
@@ -70,7 +78,8 @@
 				},
 				{
 					"subtitle": "Intermediate Methods and Programming in Digital Linguistics",
-					"time": "Spring 2024, University of Zurich"
+					"time": "Spring 2024, University of Zurich",
+					"description": "Lecturer."
 				},
 				{
 					"subtitle": "Multimodality 101",
@@ -131,7 +140,7 @@
 						{"text": "Built the first version of the Zhihu advertising platform (React + Redux + Tornado)."},
 						{"text": "Maintained the legacy website (Google Closure + Tornado)."},
 						{"text": "Redesigned and refactored the main website and codebase (React + Redux + Koa)."},
-						{"text": "In charge of internal UI kit, including a complex rich-text module (React + PostCSS + Draft.js)."}
+						{"text": "In charge of an internal UI kit, including a complex rich-text module (React + PostCSS + Draft.js)."}
 					]
 				},
 				{
@@ -152,7 +161,7 @@
 	"highlights":
 	[
 		{
-			"title": "Skills",
+			"title": "Research Interests",
 			"list": ["Sign Language Processing", "Machine Translation", "Video Understanding", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering"]
 		},
 		{
