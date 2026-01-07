@@ -10,39 +10,33 @@
 
 	"content":[
 		{
-			"title": "Education",
+			"title": "Research Experience",
 			"details":
 			[
+				{
+					"subtitle": "Google DeepMind",
+					"time": "7/2025-now, Zurich",
+					"description": "Student Researcher",
+					"roles": [
+						{"text": "Working boardly on sign language understanding and generation and subtitle alignment with the team."}
+					]
+				},
 				{
 					"subtitle": "University of Oxford",
 					"time": "11/2024-5/2025, Oxford",
 					"description": "Visiting Ph.D. student in Computer Vision.",
 					"roles": [
-						{"text": "I am doing a research visit at the Visual Geometry Group under the supervision of Professor Andrew Zisserman, working on the recognition and translation of (British) sign language videos."}
+						{"text": "A research visit at the Visual Geometry Group under the supervision of Professor Andrew Zisserman, working on the recognition, alignment, translation of (British) sign language videos."}
 					]
 				},
 				{
 					"subtitle": "University of Zurich",
-					"time": "4/2022-now, Zurich",
+					"time": "4/2022-6/2026, Zurich",
 					"description": "Ph.D. in Computational Linguistics and Phonetics.",
 					"roles": [
-						{"text": "Topic in sign language processing, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."},
+						{"text": "\"Fundamentals of Sign Language Processing: Segmentation, Representation, Alignment, Translation, Resource, and Evaluation Across Modalities\", advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich."},
 						{"text": "I have publications in top computational linguistics conferences (including ACL, EMNLP, EACL, LREC-COLING, and WMT) and regularly serve as a reviewer for ACL Rolling Review."}
 					]
-				},
-				{
-					"subtitle": "University of Zurich / ETH Zurich",
-					"time": "9/2019-3/2022, Zurich",
-					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
-					"roles": [
-						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned at the Computer Science department."},
-						{"text": "Master thesis on Machine Translation between Spoken Languages and Signed Languages in Written Form."}
-					]
-				},
-				{
-					"subtitle": "Nanjing University",
-					"time": "9/2011-7/2015, Nanjing",
-					"description": "Bachelor of Software Engineering."
 				}
 			]
 		},
@@ -52,7 +46,7 @@
 			[
 				{
 					"subtitle": "Innosuisse Flagship IICT",
-					"time": "Ph.D. funding project, 4/2022-now, Zurich",
+					"time": "Ph.D. funding project, 4/2022-2/2026, Zurich",
 					"description": "Working with partners and deaf colleagues from SWISS TXT, HfH (Zurich Training College for Teachers of Special Needs), University of Surrey and others on subproject 2: automatic sign language translation."
 				},
 				{
@@ -64,37 +58,6 @@
 					"subtitle": "WMT Shared Task on Sign Language Translation (WMT-SLT)",
 					"time": "Organizer, 2022/2023",
 					"description": "We (sign language research group from UZH) led the WMT-SLT shared task for two consecutive years. I worked on curating and releasing the datasets, including the daily news corpus and the Signsuisse lexicon."
-				}
-			]
-		},
-		{
-			"title": "Teaching",
-			"details":
-			[
-				{
-					"subtitle": "Essentials in Text and Speech Processing",
-					"time": "Fall 2024, University of Zurich",
-					"description": "Lecturer for Fall 2024 and teaching assistant for Fall 2023."
-				},
-				{
-					"subtitle": "Intermediate Methods and Programming in Digital Linguistics",
-					"time": "Spring 2024, University of Zurich",
-					"description": "Lecturer."
-				},
-				{
-					"subtitle": "Multimodality 101",
-					"time": "Fall 2023, University of Zurich",
-					"description": "Guest lecture for the Ph.D. seminar Advanced Methods for Text and Speech Processing."
-				},
-				{
-					"subtitle": "Sign Language Processing",
-					"time": "Fall 2023, University of Zurich",
-					"description": "Guest lecture for the course Artificial Intelligence for Language Accessibility."
-				},
-				{
-					"subtitle": "Intro to Machine Learning",
-					"time": "Fall 2023 /  Fall 2022 / Spring 2022, University of Neuchâtel",
-					"description": "Guest lecture for the course Intro to Data Science."
 				}
 			]
 		},
@@ -117,13 +80,70 @@
 			]
 		},
 		{
-			"title": "Past Experience",
+			"title": "Teaching",
 			"details":
 			[
 				{
-					"subtitle": "University of Zurich",
-					"time": "Teaching assistant for Informatics II (data structures and algorithms), Spring 2021, Zurich"
+					"subtitle": "Visual Language Processing",
+					"time": "Spring 2026 / Spring 2025, University of Zurich",
+					"description": "Teaching assistant."
 				},
+				{
+					"subtitle": "Essentials in Text and Speech Processing",
+					"time": "Fall 2024 / Fall 2023, University of Zurich",
+					"description": "Lecturer for Fall 2024 and teaching assistant for Fall 2023."
+				},
+				{
+					"subtitle": "Intermediate Methods and Programming in Digital Linguistics",
+					"time": "Spring 2024, University of Zurich",
+					"description": "Lecturer."
+				},
+				{
+					"subtitle": "Multimodality 101",
+					"time": "Fall 2023, University of Zurich",
+					"description": "Guest lecture for the Ph.D. seminar Advanced Methods for Text and Speech Processing."
+				},
+				{
+					"subtitle": "Sign Language Processing",
+					"time": "Fall 2023, University of Zurich",
+					"description": "Guest lecture for the course Artificial Intelligence for Language Accessibility."
+				},
+				{
+					"subtitle": "Intro to Machine Learning",
+					"time": "Fall 2023 /  Fall 2022 / Spring 2022, University of Neuchâtel",
+					"description": "Guest lecture for the course Intro to Data Science."
+				},
+				{
+					"subtitle": "Informatics II (Data Structures and Algorithms)",
+					"time": "Spring 2021, University of Zurich",
+					"description": "Teaching assistant."
+				}
+			]
+		},
+		{
+			"title": "Past Education",
+			"details":
+			[
+				{
+					"subtitle": "University of Zurich / ETH Zurich",
+					"time": "9/2019-3/2022, Zurich",
+					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
+					"roles": [
+						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned at the Computer Science department."},
+						{"text": "Master thesis on Machine Translation between Spoken Languages and Signed Languages in Written Form."}
+					]
+				},
+				{
+					"subtitle": "Nanjing University",
+					"time": "9/2011-7/2015, Nanjing",
+					"description": "Bachelor of Software Engineering."
+				}
+			]
+		},
+		{
+			"title": "Past Employment",
+			"details":
+			[
 				{
 					"subtitle": "Wiredcraft",
 					"time": "Front-end engineer, 2/2018-7/2019, Shanghai",
@@ -162,11 +182,11 @@
 	[
 		{
 			"title": "Research Interests",
-			"list": ["Sign Language Processing", "Machine Translation", "Video Understanding", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering"]
+			"list": ["Sign Language Processing", "Machine Translation", "Video Understanding", "Audio Signal Processing", "(Sign Language) Linguistics", "Web Development", "Software Engineering", "Accessibility"]
 		},
 		{
 			"title": "Programming Languages",
-			"list": ["JavaScript/CSS/HTML (expert)", "Python/Node.js (fluent)", "Java/C/C++ (prior experience)", "LaTeX (fluent)"]
+			"list": ["JavaScript/CSS/HTML (expert)", "Python/Node.js (expert)", "Java/C/C++ (prior experience)", "LaTeX (fluent)"]
 		},
 		{
 			"title": "Natural Languages",
