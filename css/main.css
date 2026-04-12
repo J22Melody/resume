@@ -19,7 +19,7 @@ textarea {
 }
 
 body {
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.4;
 }
 
@@ -158,6 +158,14 @@ header h1 {
     font-size: 2.6em;
     font-weight: normal;
     margin-top: 0;
+}
+
+.tagline {
+    margin-top: -0.6em;
+    color: #888;
+    font-size: 1.3em;
+    font-style: italic;
+    letter-spacing: 0.05em;
 }
 
 .contact {
@@ -530,6 +538,10 @@ dd, section p {
         margin: 0;
     }
 
+    .tagline {
+        margin-top: 0.4em;
+    }
+
     dl, dl li {
         line-height: 1.35em;
     }
@@ -561,6 +573,6 @@ address br{
 
 
 .me {
-    width: 100px;
+    width: 120px;
     margin: 20px 0;
 }

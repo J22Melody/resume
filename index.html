@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Jiang Zifan's Résumé</title>
+        <title>Jiang Zifan's CV</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
@@ -37,13 +37,14 @@
         <script id="template" type="text/x-mustache-template">
             <header class="clearfix">
                 <h1>{{name}}'s CV</h1>
+                <p class="tagline">{{tagline}}</p>
 
                 <figure class="contact">
                     <a href="http://jzf.life" target="_blank">jzf.life</a><br />
                     <address>
                         <span class="encoded" data-encoded="{{tel}}"></span><br />
-                        <span class="encoded email" data-encoded="{{email}}"></span><br />
-                        {{address}}
+                        {{address}}<br />
+                        <span class="encoded email" data-encoded="{{email}}"></span>
                     </address>
                     <a href="https://www.cl.uzh.ch/en/research-groups/accessibility/team/current-members/jiang.html" target="_blank">Lab homepage</a> /
                     <a href="https://scholar.google.com/citations?user=o22_kAgAAAAJ&hl=en" target="_blank">Google Scholar</a><br />
@@ -59,9 +60,9 @@
                     <h2>{{title}}</h2>
                     {{#details}}
                     <dl>
-                        <dt>{{subtitle}}<span class="time">{{time}}</span></dt>
+                        <dt>{{{subtitle}}}<span class="time">{{time}}</span></dt>
                         <dd>
-                        {{description}}
+                        {{{description}}}
                         {{#description}}
                         <br />
                         {{/description}}
@@ -69,7 +70,7 @@
                             <br /><a href="{{href}}" target="_blank" class="description-link">&rArr; {{text}}</a>
                         {{/link}}
                         {{#roles}}
-                            <span>&rArr; {{text}}</span><br />
+                            <span>&rArr; {{{text}}}</span><br />
                         {{/roles}}
                         </dd>
                     </dl>
