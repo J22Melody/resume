@@ -28,7 +28,7 @@
 					"description": "Visiting Ph.D. student in Computer Vision, supervised by Professor Andrew Zisserman.",
 					"roles": [
 						{"text": "Working on the recognition, alignment, and translation of (with a focus on British) sign language."},
-						{"text": "Two outcome publications: <a href=\"https://j22melody.github.io/SEA/\" target=\"_blank\">SEA</a> (ACL 2026 main); <a href=\"https://www.robots.ox.ac.uk/~vgg/research/litfie/\" target=\"_blank\">LiTFiE</a> (under review, ECCV 2026)."}
+						{"text": "Two outcome publications: <a href=\"https://j22melody.github.io/SEA/\" target=\"_blank\">SEA</a> (ACL 2026 main); <a href=\"https://www.robots.ox.ac.uk/~vgg/research/litfie/\" target=\"_blank\">LiTFiE</a> (under review)."}
 					]
 				},
 				{
