@@ -4,7 +4,7 @@
 	"download_pdf": "download as PDF",
 
 	"name": "Zifan Jiang",
-	"tagline": "Researcher and engineer",
+	"tagline": "Researcher/Engineer in Multimodal AI:<br>Sign Language, Video, Pose, Speech, and Text",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
 	"address": "Ostring 12, 8105 Regensdorf",
@@ -187,7 +187,7 @@
 	[
 		{
 			"title": "Areas of Expertise",
-			"list": ["Sign Language Processing", "Machine Translation", "Video Understanding", "Audio Signal Processing", "Multimodal Learning", "Human Evaluation", "(Sign Language) Linguistics", "Phonetics and Phonology", "Web Development", "Software Engineering", "Accessibility"]
+			"list": ["Sign Language Processing", "Machine Translation", "Language Modeling", "Video Understanding", "Pose Estimation", "Audio Signal Processing", "Multimodal Learning", "Human Evaluation", "(Sign Language) Linguistics", "Phonetics and Phonology", "Web Development", "Software Engineering", "Accessibility"]
 		},
 		{
 			"title": "Programming Languages",
