@@ -19,7 +19,7 @@
 					"time": "7/2025-5/2026, Zurich",
 					"description": "Student Researcher (100% full-time in 2025; 20% part-time in 2026).",
 					"roles": [
-						{"text": "Working broadly on sign language understanding and generation within the <a href=\"https://www.linkedin.com/posts/googledeepmind_signgemma-is-our-most-advanced-model-for-activity-7342957078249955329-JwJJ/\" target=\"_blank\">SignGemma</a> team."}
+						{"text": "Working broadly on sign language understanding (sign-to-text) and generation (text-to-sign) within the <a href=\"https://www.linkedin.com/posts/googledeepmind_signgemma-is-our-most-advanced-model-for-activity-7342957078249955329-JwJJ/\" target=\"_blank\">SignGemma</a> team."}
 					]
 				},
 				{
@@ -37,7 +37,7 @@
 					"description": "Ph.D. in Computational Linguistics, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich.",
 					"roles": [
 						{"text": "Dissertation: <em>Fundamentals of Sign Language Processing</em>."},
-						{"text": "Various publications in top computational linguistics conferences (ACL, EMNLP, EACL, LREC-COLING, WMT), see <a href=\"https://scholar.google.com/citations?user=o22_kAgAAAAJ&hl=en\" target=\"_blank\">Google Scholar</a>. Active reviewer for ACL Rolling Review."}
+						{"text": "Publications in top computational linguistics conferences (ACL, EMNLP, EACL, LREC-COLING, WMT), e.g., <a href=\"https://aclanthology.org/2024.emnlp-main.518/\" target=\"_blank\">SignCLIP</a>; see <a href=\"https://scholar.google.com/citations?user=o22_kAgAAAAJ&hl=en\" target=\"_blank\">Google Scholar</a> for the full list. Active reviewer for ACL Rolling Review."}
 					]
 				}
 			]
@@ -135,7 +135,7 @@
 					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
 					"roles": [
 						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned under Computer Science."},
-						{"text": "Master thesis on <em>Machine Translation between Spoken Languages and Signed Languages in Written Form</em>."}
+						{"text": "Master thesis on <a href=\"https://www.cl.uzh.ch/dam/jcr:8e88f217-a8f2-47bf-80a2-6d56265652ac/Masterarbeit_Zifan_Jiang.pdf\" target=\"_blank\"><em>Machine Translation between Spoken Languages and Signed Languages in Written Form</em></a>."}
 					]
 				},
 				{
@@ -153,9 +153,9 @@
 					"subtitle": "Wiredcraft",
 					"time": "Front-end engineer, 2/2018-7/2019, Shanghai",
 					"roles": [
-						{"text": "Lead maintainer of Starbucks China website (React + Redux + Jekyll + LoopBack)."},
-						{"text": "Lead maintainer of World Bank Open Data platform (React + Redux + D3.js + Falcor + Redis)."},
-						{"text": "Analyst on-site at Nike Shanghai, helping on their first WeChat Mini-Program (React + Redux)."}
+						{"text": "Lead maintainer of <a href=\"https://www.starbucks.com.cn/en/\" target=\"_blank\">Starbucks China website</a> (React + Redux + Jekyll + LoopBack)."},
+						{"text": "Lead maintainer of <a href=\"https://data.worldbank.org/\" target=\"_blank\">World Bank Open Data platform</a> (React + Redux + D3.js + Falcor + Redis)."},
+						{"text": "Analyst on-site at Nike Shanghai, helping on their first <a href=\"https://wiredcraft.com/blog/nike-case-study/\" target=\"_blank\">WeChat Mini-Program</a> (React + Redux)."}
 					]
 				},
 				{
