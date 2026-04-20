@@ -190,6 +190,10 @@
 			"list": ["Sign Language Processing", "Machine Translation", "Language Modeling", "Video Understanding", "Pose Estimation", "Audio Signal Processing", "Multimodal Learning", "Human Evaluation", "(Sign Language) Linguistics", "Phonetics and Phonology", "Web Development", "Software Engineering", "Accessibility"]
 		},
 		{
+			"title": "Research Tools",
+			"list": ["MacOS/Linux/Chrome", "iTerm2/VS Code/Colab/Overleaf", "Git/GitHub/Slurm/tmux/Docker/W&B", "PyTorch/TensorFlow/JAX/NumPy", "Gemini/ChatGPT/Codex/Claude Code"]
+		},
+		{
 			"title": "Programming Languages",
 			"list": ["JavaScript/CSS/HTML (expert)", "Python/Node.js (expert)", "Java/C/C++ (prior experience)", "LaTeX (fluent)"]
 		},
