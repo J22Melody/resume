@@ -4,7 +4,7 @@
 	"download_pdf": "download as PDF",
 
 	"name": "Zifan Jiang",
-	"tagline": "Researcher/Engineer in Multimodal AI:<br>Sign Language, Video, Pose, Speech, and Text",
+	"tagline": "Researcher/Engineer in Multimodal & Multilingual AI:<br>Sign Language, Video, Pose, Speech, and Text",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
 	"address": "Ostring 12, 8105 Regensdorf",
