@@ -3,7 +3,7 @@
 	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
 	"download_pdf": "download as PDF",
 
-	"name": "Dr. Zifan Jiang",
+	"name": "(Dr.) Zifan Jiang",
 	"tagline": "Researcher/Engineer in Multimodal & Multilingual AI:<br>Sign Language, Video, Pose, Speech, and Text",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
