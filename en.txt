@@ -3,7 +3,7 @@
 	"language_tip": "The page is available in {0} and {1}. You can also {2}.",
 	"download_pdf": "download as PDF",
 
-	"name": "Zifan Jiang",
+	"name": "Dr. Zifan Jiang",
 	"tagline": "Researcher/Engineer in Multimodal & Multilingual AI:<br>Sign Language, Video, Pose, Speech, and Text",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
@@ -36,7 +36,7 @@
 					"time": "4/2022-5/2026, Zurich",
 					"description": "Ph.D. in Computational Linguistics, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich.",
 					"roles": [
-						{"text": "Dissertation: <em>Fundamentals of Sign Language Processing</em>."},
+						{"text": "Dissertation: <em>Fundamentals of Sign Language Processing</em> (<a href=\"https://docs.google.com/presentation/d/1ONniu2RB9nIprHedWAukJLoSawYGlKWECOd3RLgduDg/edit?usp=sharing\" target=\"_blank\">slides</a>, <a href=\"https://www.youtube.com/watch?v=rRvO2Yqa1gI\" target=\"_blank\">prerecording</a>)."},
 						{"text": "Publications in top computational linguistics conferences (ACL, EMNLP, EACL, LREC-COLING, WMT), e.g., <a href=\"https://aclanthology.org/2024.emnlp-main.518/\" target=\"_blank\">SignCLIP</a>; see <a href=\"https://scholar.google.com/citations?user=o22_kAgAAAAJ&hl=en\" target=\"_blank\">Google Scholar</a> for the full list. Active reviewer for ACL Rolling Review."}
 					]
 				}
@@ -130,6 +130,11 @@
 			"details":
 			[
 				{
+					"subtitle": "University of Zurich",
+					"time": "4/2022-5/2026, Zurich",
+					"description": "Ph.D. in Computational Linguistics, defended in May 2026 (summa cum laude)."
+				},
+				{
 					"subtitle": "UZH / ETH Zurich",
 					"time": "9/2019-3/2022, Zurich",
 					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
@@ -146,7 +151,7 @@
 			]
 		},
 		{
-			"title": "Employment History",
+			"title": "Employment History (10+ years of engineering experience)",
 			"details":
 			[
 				{
