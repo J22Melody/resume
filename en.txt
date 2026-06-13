@@ -36,7 +36,7 @@
 					"time": "4/2022-5/2026, Zurich",
 					"description": "Ph.D. in Computational Linguistics, advised by Prof. Dr. Sarah Ebling and Prof. Dr. Rico Sennrich.",
 					"roles": [
-						{"text": "Dissertation: <em>Fundamentals of Sign Language Processing</em> (<a href=\"https://docs.google.com/presentation/d/1ONniu2RB9nIprHedWAukJLoSawYGlKWECOd3RLgduDg/edit?usp=sharing\" target=\"_blank\">slides</a>, <a href=\"https://www.youtube.com/watch?v=rRvO2Yqa1gI\" target=\"_blank\">prerecording</a>)."},
+						{"text": "Dissertation: <em><a href=\"https://www.zora.uzh.ch/entities/publication/8fbd8035-fd59-4bb1-8300-9eeb64726546\" target=\"_blank\">Fundamentals of Sign Language Processing</a></em> (<a href=\"https://docs.google.com/presentation/d/1ONniu2RB9nIprHedWAukJLoSawYGlKWECOd3RLgduDg/edit?usp=sharing\" target=\"_blank\">slides</a>, <a href=\"https://www.youtube.com/watch?v=rRvO2Yqa1gI\" target=\"_blank\">prerecording</a>)."},
 						{"text": "Publications in top computational linguistics conferences (ACL, EMNLP, EACL, LREC-COLING, WMT), e.g., <a href=\"https://aclanthology.org/2024.emnlp-main.518/\" target=\"_blank\">SignCLIP</a>; see <a href=\"https://scholar.google.com/citations?user=o22_kAgAAAAJ&hl=en\" target=\"_blank\">Google Scholar</a> for the full list. Active reviewer for ACL Rolling Review."}
 					]
 				}
