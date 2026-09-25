@@ -7,7 +7,7 @@
 	"tagline": "Researcher/Engineer in Multimodal & Multilingual AI:<br>Sign Language, Video, Pose, Speech, and Text",
 	"tel": "(+41) 76 337 6465",
 	"email": "j22melody@gmail.com",
-	"address": "Ostring 12, 8105 Regensdorf",
+	"address": "8803 Rüschlikon, Switzerland",
 
 	"content":[
 		{
@@ -16,10 +16,10 @@
 			[
 				{
 					"subtitle": "Google DeepMind",
-					"time": "7/2025-5/2026, Zurich",
-					"description": "Student Researcher (100% full-time in 2025; 20% part-time in 2026).",
+					"time": "7/2025-present, Zurich",
+					"description": "<b>Research Scientist</b> (10/2026 onwards) & Student Researcher (full-time in 2025; 20% in 2026).",
 					"roles": [
-						{"text": "Working broadly on sign language understanding (sign-to-text) and generation (text-to-sign) within the <a href=\"https://www.linkedin.com/posts/googledeepmind_signgemma-is-our-most-advanced-model-for-activity-7342957078249955329-JwJJ/\" target=\"_blank\">SignGemma</a> team."}
+						{"text": "Working broadly on sign language understanding (sign-to-text) and generation (text-to-sign) within the <a href=\"https://www.linkedin.com/posts/googledeepmind_signgemma-is-our-most-advanced-model-for-activity-7342957078249955329-JwJJ/\" target=\"_blank\">SignGemma</a> team. We release user products such as <a href=\"https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/\" target=\"_blank\">SL2T</a>."}
 					]
 				},
 				{
@@ -28,7 +28,7 @@
 					"description": "Visiting Ph.D. student in Computer Vision, supervised by Professor Andrew Zisserman.",
 					"roles": [
 						{"text": "Working on the recognition, alignment, and translation of (with a focus on British) sign language."},
-						{"text": "Two outcome publications: <a href=\"https://j22melody.github.io/SEA/\" target=\"_blank\">SEA</a> (ACL 2026 main); <a href=\"https://www.robots.ox.ac.uk/~vgg/research/litfie/\" target=\"_blank\">LiTFiE</a> (under review)."}
+						{"text": "Two outcome publications: <a href=\"https://j22melody.github.io/SEA/\" target=\"_blank\">SEA</a> (ACL 2026); <a href=\"https://www.robots.ox.ac.uk/~vgg/research/litfie/\" target=\"_blank\">LiTFiE</a> (NeurIPS 2026)."}
 					]
 				},
 				{
@@ -78,7 +78,7 @@
 					"description": "For the <a href=\"https://swissnlp.org/home/activities/swissnlp-award/\" target=\"_blank\">outstanding contribution</a> to Sign Language Translation in Switzerland."
 				},
 				{
-					"subtitle": "Invited Talk: \"Understanding Great Ape Calls and Gestures with Deep Pretrained Neural Networks\"",
+					"subtitle": "Invited Talk: \"Understanding Great Apes with AI\"",
 					"time": "EFP conference, 6/2024, Lausanne",
 					"description": "Coverage in science magazine <a href=\"https://wp.unil.ch/uniscope/dix-decouvertes-sur-les-singes-devoilees-lors-des-dixiemes-rencontres-de-primatologie/\" target=\"_blank\"><em>l'uniscope</em></a>."
 				}
@@ -140,7 +140,7 @@
 					"description": "Master of Informatics, major in Data Science, GPA 5.5/6.0 (summa cum laude).",
 					"roles": [
 						{"text": "A registered special student at ETH Zurich, 45 ECTS credits earned under Computer Science."},
-						{"text": "Master thesis on <a href=\"https://www.cl.uzh.ch/dam/jcr:8e88f217-a8f2-47bf-80a2-6d56265652ac/Masterarbeit_Zifan_Jiang.pdf\" target=\"_blank\"><em>Machine Translation between Spoken Languages and Signed Languages in Written Form</em></a>."}
+						{"text": "Thesis: <a href=\"https://www.cl.uzh.ch/dam/jcr:8e88f217-a8f2-47bf-80a2-6d56265652ac/Masterarbeit_Zifan_Jiang.pdf\" target=\"_blank\"><em>Machine Translation between Spoken Languages & Signed Languages in Written Form</em></a>."}
 					]
 				},
 				{
